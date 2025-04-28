@@ -1,5 +1,7 @@
 # Term-Deposit-Marketing
+
 Project: PQrCYHsuv37Ydoco
+
 Term-Deposit-Marketing
 Customer Intent Prediction and Classification
 This project focuses on building machine learning models to predict customer responses (e.g., "yes" or "no") for marketing calls in the European banking sector. We aim to improve the success rate of calls by leveraging call center data and other customer features. The solution is designed to enhance call targeting and optimize marketing campaigns for higher success outcomes.
